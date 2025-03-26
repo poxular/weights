@@ -23,7 +23,7 @@
   "IPADAPTER": [
   ],
   "VAE": [
-    "ae.safetensors",
+    "ae.safetensors"
   ],
   "UNET": [
    "Colossus_ProjectFlux_2.1_FP8_UNET_ONLY_00001.safetensors"
