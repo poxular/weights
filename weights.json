@@ -1,0 +1,95 @@
+{
+  "CHECKPOINTS": [
+  ],
+  "UPSCALE_MODELS": [
+  ],
+  "TEXT_ENCODERS": [
+    "ViT-L-14-BEST-smooth-GmP-HF-format.safetensors"
+  ],
+  "CLIP": [
+    "clip_l.safetensors",
+    "t5xxl_fp16.safetensors"
+  ],
+  "CLIP_VISION": [
+  ],
+  "LORAS": [
+    "amateuriphoneshotv1.safetensors",
+    "danilofi_DOSPL.safetensors"
+  ],
+  "EMBEDDINGS": [
+  ],
+  "CONTROLNET": [
+  ],
+  "IPADAPTER": [
+  ],
+  "VAE": [
+    "ae.safetensors",
+  ],
+  "UNET": [
+   "Colossus_ProjectFlux_2.1_FP8_UNET_ONLY_00001.safetensors"
+  ],
+  "DIFFUSION_MODELS": [
+  ],
+  "PHOTOMAKER": [
+  ],
+  "INSTANTID": [
+  ],
+  "INSIGHTFACE": [
+  ],
+  "FACEDETECTION": [
+  ],
+  "FACERESTORE_MODELS": [
+  ],
+  "MMDETS": [
+  ],
+  "SAMS": [
+  ],
+  "GROUNDING-DINO": [
+  ],
+  "BERT-BASE-UNCASED": [
+  ],
+  "ULTRALYTICS": [
+  ],
+  "LAYER_MODEL": [
+  ],
+  "CLIPSEG": [
+  ],
+  "REMBG": [
+  ],
+  "PULID": [
+  ],
+  "GLIGEN": [
+  ],
+  "DYNAMICRAFTER": [
+  ],
+  "ANIMATEDIFF_MODELS": [
+  ],
+  "ANIMATEDIFF_MOTION_LORA": [
+  ],
+  "LIVEPORTRAIT": [
+  ],
+  "LLM": [
+  ],
+  "TENSORRT": [
+  ],
+  "DIFFUSERS": [
+  ],
+  "ULTRAPIXEL": [
+  ],
+  "INPAINT": [
+  ],
+  "STYLE_MODELS": [
+  ],
+  "SAM2": [
+  ],
+  "RESWAPPER": [
+  ],
+  "NSFW_DETECTOR": [
+  ],
+  "BIREFNET": [
+  ],
+  "DEPTHANYTHING": [
+  ],
+  "FBCNN": [
+  ]
+}
